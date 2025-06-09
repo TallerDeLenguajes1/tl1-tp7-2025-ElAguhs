@@ -4,7 +4,7 @@ using espacioCalculadora;
 namespace espacioCalculadora
 {
 
-    class Calculadora
+    public class Calculadora
     {
         private double valor;
         public double Resultado
